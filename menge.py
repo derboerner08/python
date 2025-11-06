@@ -44,6 +44,11 @@ class Menge:
             if self.menge[i] in partner.menge:
                 A.insert(self.menge[i])
         return A
+
+
+    def potmenge(self):
+        neu=Menge()
+        for i in range 
     
     
             
